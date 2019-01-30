@@ -6,7 +6,7 @@ Date : 02/02/2019
 ## Creating Azure Function for Python using VS Code
 ### Install dependencies
 
-Before you can get started, you should install [Visual Studio Code](https://code.visualstudio.com/). You should also install [Node.JS](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) which includes npm, which is how you will obtain the **Azure Functions Core Tools**. If you prefer not to install Node, see the other installation options in our [Core Tools reference](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools).
+Before you can get started, you should install [Visual Studio Code](https://code.visualstudio.com/). You should also install [Node.JS](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) which includes npm, which is how you will obtain the **Azure Functions Core Tools**. If you prefer not to install Node, see the other installation options in [Core Tools reference](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools).
 
 Run the following command to install the Core Tools package:
 
