@@ -4,7 +4,7 @@ MS Connect(); Chennai - Empowering every developer to achieve more !!
 Date : 02/02/2019
 
 ## Creating Azure Function for Python using VS Code
-### Install dependencies
+### - Install dependencies
 
 Before you can get started, you should install [Visual Studio Code](https://code.visualstudio.com/). You should also install [Node.JS](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) which includes npm, which is how you will obtain the **Azure Functions Core Tools**. If you prefer not to install Node, see the other installation options in our [Core Tools reference](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools).
 
@@ -18,7 +18,8 @@ Next, install the [Azure Functions extension for Visual Studio Code](https://mar
 
 
 
-### Create an Azure Functions project
+
+### - Create an Azure Functions project
 
 Click the **Create New Project…** icon in the **Azure: Functions** panel.
 
@@ -28,7 +29,8 @@ You will then be prompted to select a language for your project. Choose python.
 
 
 
-### Create a function
+
+### - Create a function
 
 Click the **Create Function…** icon in the **Azure: Functions** panel.
 
@@ -36,7 +38,8 @@ You will be prompted to choose a template for your function. We recommend HTTP t
 
 
 
-### Run your function project locally
+
+### - Run your function project locally
 
 Press **F5** to run your function app.
 
@@ -46,10 +49,11 @@ To stop debugging, press **Shift + F5**.
 
 
 
-### Deploy your code to Azure
+
+### - Deploy your code to Azure
 
 Click the **Deploy to Function App…** (blue up arrow) icon in the Azure: Functions panel.
 
 When prompted to select a function app, choose *your function app*.
 
-##### You achieved a milestone !!
+##### You achieved a milestone !!  :bowtie:
