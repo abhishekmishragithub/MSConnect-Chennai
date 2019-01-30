@@ -56,4 +56,12 @@ Click the **Deploy to Function App…** (blue up arrow) icon in the Azure: Funct
 
 When prompted to select a function app, choose *your function app*.
 
+
+
+
+## Creating Azure Function with Core tool
+### Install dependencies
+
+- Follow same process as mentioned above 
+
 ##### You achieved a milestone !!  :bowtie:
