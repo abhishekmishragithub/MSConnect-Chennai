@@ -1,4 +1,4 @@
-# MS Connect() - Chennai
+# MS Connect(); - Chennai
 MS Connect(); Chennai - Empowering every developer to achieve more !!
 
 Date : 02/02/2019
