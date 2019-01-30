@@ -17,6 +17,7 @@ The Core Tools make use of [.NET Core 2.1](https://dotnet.microsoft.com/download
 Next, install the [Azure Functions extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions). Once the extension is installed, click on the Azure logo in the Activity Bar. Under **Azure: Functions**, click **Sign in to Azure...** and follow the on-screen instructions.
 
 
+
 ### Create an Azure Functions project
 
 Click the **Create New Project…** icon in the **Azure: Functions** panel.
@@ -26,11 +27,13 @@ You will be prompted to choose a directory for your app. Choose an empty directo
 You will then be prompted to select a language for your project. Choose python.
 
 
+
 ### Create a function
 
 Click the **Create Function…** icon in the **Azure: Functions** panel.
 
 You will be prompted to choose a template for your function. We recommend HTTP trigger for getting started.
+
 
 
 ### Run your function project locally
@@ -40,6 +43,7 @@ Press **F5** to run your function app.
 The runtime will output a URL for any HTTP functions, which can be copied and run in your browser's address bar.
 
 To stop debugging, press **Shift + F5**.
+
 
 
 ### Deploy your code to Azure
