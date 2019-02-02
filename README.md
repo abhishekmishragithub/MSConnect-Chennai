@@ -118,5 +118,6 @@ You may be prompted to sign into Azure. Follow the onscreen instructions.
 
 
 ##### You achieved a milestone !!  :bowtie:
-
+  
+#### Note: This repo is not yet completed, i'll update soon.
 ##### Updates coming soon....
